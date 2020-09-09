@@ -1,5 +1,5 @@
 # Kalku-Ku
-![](https://i.ibb.co/DtQtCxQ/Light-Mode.png)
+![](https://i.ibb.co/DtQtCxQ/Light-Mode.png)  
 Aplikasi ini adalah pengembangan lebih lanjut dari apa yang pernah saya buat sebelumnya. Ketika saya memasuki [RISTEK](https://ristek.cs.ui.ac.id) FASILKOM UI, saya diberi tugas untuk membuat kalkulator rahasia yang dapat diakses jika menuliskan password "2020". Semakin kesini, saya semakin menyadari bahwa kalkulator yang pernah saya buat minim sekali fungsionalitasnya, seperti hanya bisa operasi 2 angka, layout yang tidak kompatibel di setiap hp, dan beberapa fungsionalitas lainnya. 
 
 ## Fitur Baru !
