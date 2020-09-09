@@ -26,6 +26,6 @@ Berikut beberapa paket tambahan yang saya gunakan
    [SD]: <https://pub.dev/packages/swipedetector>
    
 ## Akhir Kata
- Terima Kasih telah mengunjungi repository saya, jika anda ingin mencoba aplikasi yang telah saya buat, silahkan download pada tulisan di bawah ini.
- version 1.0 (tidak ada source code) -> [disini](https://drive.google.com/drive/folders/1I6AUz4Pnk1Y2TsNITNNWR429P41sSCPW?usp=sharing)
- version 2.0 (projek ini) -> [disini](https://drive.google.com/drive/folders/1BWLs3V7MNBrgpe4jGhhNGVDf_A-Cfkya?usp=sharing)
+ Terima Kasih telah mengunjungi repository saya, jika anda ingin mencoba aplikasi yang telah saya buat, silahkan download pada tulisan di bawah ini.  
+ version 1.0 (tidak ada source code) -> [disini](https://drive.google.com/drive/folders/1I6AUz4Pnk1Y2TsNITNNWR429P41sSCPW?usp=sharing)  
+ version 2.0 (projek ini) -> [disini](https://drive.google.com/drive/folders/1BWLs3V7MNBrgpe4jGhhNGVDf_A-Cfkya?usp=sharing)  
