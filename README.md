@@ -6,7 +6,7 @@ Aplikasi ini adalah pengembangan lebih lanjut dari apa yang pernah saya buat seb
 - DARK MODE  
 ![](https://i.ibb.co/djXWjBP/DarkMode.png)  
 - Operasi sudah tidak sebatas 2 angka saja
-- Dapat menangani angka yang hasilnya terlalu besar menggungakan format eksponen
+- Dapat menangani angka yang hasilnya terlalu besar menggunakan format eksponen
 - Terdapat operator baru yaitu % dan +/- yang tentunya akan memudahkan pengguna
 - Angka yang dimasukkan maksimal 7 karakter
 - Swipe right dari sisi kiri akan membuka sidebar yang berisi data diri creator
